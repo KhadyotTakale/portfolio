@@ -16,29 +16,29 @@ const projects = [
       "A robust system to efficiently manage visitor and exhibitor entry/exit at large-scale exhibitions with real-time monitoring, dynamic badge generation, and in-depth analytics.",
     tech: ["React.js", "Node.js", "Express.js", "MongoDB", "QR Code/RFID"],
     github: "https://github.com/",
-    demo: "https://example.com",
+    demo: "https://github.com/KhadyotTakale/EventManagement",
     featured: true,
-    image: "/src/assets/imgP1.png", // Add your image path here
+    image: "https://ibb.co/rGFzSWZ0", // Add your image path here
   },
   {
     title: "Geo-Tagging Website",
     description:
       "A web application using the MERN stack that allows users to upload images and automatically tag them with geographic coordinates, featuring an interactive map interface.",
     tech: ["React.js", "Node.js", "Express.js", "MongoDB", "Google Maps API"],
-    github: "https://github.com/",
+    github: "https://github.com/KhadyotTakale/GeoTagPhotoWebsite",
     demo: "https://example.com",
     featured: true,
-    image: "/src/assets/imgP2.png", // Add your image path here
+    image: "https://ibb.co/3m4qzdDm", // Add your image path here
   },
   {
     title: "Real Estate Price Prediction",
     description:
       "A machine learning model using Python and Pandas to estimate property prices based on key factors, with data collection, cleaning, and preprocessing of historical real estate datasets.",
     tech: ["Python", "SQL", "Machine Learning", "Pandas", "Linear Regression"],
-    github: "https://github.com/",
+    github: "https://github.com/KhadyotTakale/HousePricePrediction",
     demo: "https://example.com",
     featured: true,
-    image: "/src/assets/imgP3.png", // Add your image path here
+    image: "https://ibb.co/84SFm8P6", // Add your image path here
   },
 
   {
