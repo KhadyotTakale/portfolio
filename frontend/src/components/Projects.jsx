@@ -18,7 +18,7 @@ const projects = [
     github: "https://github.com/",
     demo: "https://github.com/KhadyotTakale/EventManagement",
     featured: true,
-    image: "https://ibb.co/rGFzSWZ0", // Add your image path here
+    image: "https://media-hosting.imagekit.io/9c147c8b8fd34512/imgP1.png?Expires=1839616006&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=qt-7V8O1OuOzWBYtN3ni9mJWxjFo5cVyX5K7Wjb2wk8GEejlL84YK2w57c2yhQoKezOuCxohVwEini~5KHDRYQat8HatT-~PWHIkspEMvaO8mdhx9FW9uIQUIqE9NVQM8YMJ783qnzEK-Iugmv--4APXqWVIO5YUx47069XsFcx7XDwKTVRiANtpfwy1Rq7~ySrYKU8-YXzsVZzak2~AFxXsBoD2dBOI7Q0PUkmn298VzjxxdIYsuTU5uRWCw6Q0tsM20rba-M5V38iyx2UaKBiXpnaysjOZYNH7lRKoMhx8gQKOfAbOjBwyL4FQbuurFdtYqXz8oi6-J79iTc1U1g__", // Add your image path here
   },
   {
     title: "Geo-Tagging Website",
@@ -28,7 +28,7 @@ const projects = [
     github: "https://github.com/KhadyotTakale/GeoTagPhotoWebsite",
     demo: "https://example.com",
     featured: true,
-    image: "https://ibb.co/3m4qzdDm", // Add your image path here
+    image: "https://media-hosting.imagekit.io/2c0b93ac605d411f/imgP2.png?Expires=1839616006&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=2Al-zLiAFBil5Do-GPu40Y-klMrzvYGy8RVkjYxgaPsuV5YRAmYt-WNamLDHbMr2Qbm27Ht3J~IPWcx3gHq6SBL~QR9DUFJYYnLaPd64MU8sfJZ0LL0dko5UJC7MF21DeSQk9x7oc6nIscRRbKh~ZqocFRffxsZgFLF-4uSY6859lnTrXw3468gR1-cz5s-nVLuMLLKxHvESV0a9HDLLeQbqBmLyfaafVcJi0Gkb9Oe-C8rswej2vUvq3jtq9hDaG-DMU5B8fnTDlSxt6~qhkstO5TbC-d9IbC8wk6Y2iUFXcvpKdPWJRWMhSgz3~3--bCiAiMkNNx8DSgI5-~nGFA__", // Add your image path here
   },
   {
     title: "Real Estate Price Prediction",
@@ -38,7 +38,7 @@ const projects = [
     github: "https://github.com/KhadyotTakale/HousePricePrediction",
     demo: "https://example.com",
     featured: true,
-    image: "https://ibb.co/84SFm8P6", // Add your image path here
+    image: "https://media-hosting.imagekit.io/6fa8d3a752c74d20/Screenshot%202025-04-19%20at%2012.44.52%E2%80%AFAM.png?Expires=1839616006&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=OvHsUiEryGgTuCOP3DJ1mzZTtLdPbf8oIhOW6PBcKV4Kh92n-B8wJ0tm8m2ItyPJ67lIgkPmLmQm4KqqYJZQdsmevGAC4jlDKnnjyhD0mARRcZyFJfloMURkH9fBEukDKPMs028UEJjQ6GNhQPlAY9XFmIubHaBTjHHofpeqmMmZbOwxZw7djEktJu6qL70jLs3YfO-YpCveNC-2~42R~S2tuxnZ7S9P-mwatPfGzgChcutw6q8Asscl9mwMFbLhvW3Jl-2J-ZM0XMtiIzk-qgBuUDWE20ictchRPzoCQQWboysg0AfIEzp3oN6i4bKLDO7gb7xLYNqOV88EXAI01A__", // Add your image path here
   },
 
   {
