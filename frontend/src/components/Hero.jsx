@@ -82,7 +82,7 @@ const Hero = () => {
                 {/* Profile Image */}
                 <div className="w-full h-full flex items-center justify-center">
                   <img
-                    src="https://media.licdn.com/dms/image/v2/D4D03AQG_3b0Z3ZXv6A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1682431661537?e=1750291200&v=beta&t=3VFJxMhUq3yfvZQYk2LYhxCRvfukh855WeduJs5tOUw" // Replace this with the actual path to your image
+                    src="https://media.licdn.com/dms/image/v2/D4D03AQG_3b0Z3ZXv6A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1682431661537?e=1759363200&v=beta&t=qPMLDwwbtg8rmMeKUK29Zs6ogEZNLIj1iPBE3gIPlq4" // Replace this with the actual path to your image
                     alt="Profile"
                     className="w-full h-full object-cover rounded-full" // Use object-cover to maintain aspect ratio
                   />
